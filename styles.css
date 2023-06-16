@@ -1,0 +1,35 @@
+body{
+    background-image: url("seamless-pattern-illustration-of-donuts-in-pink-glaze-on-a-light-blue-background-vector.jpg");
+}
+
+#donutButton{
+    width: 500px;
+    height: 500px;
+}
+
+#Auto{
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    border:1px #333 solid; 
+    border-radius: 0.3rem;
+    color: #333;
+    background: #f6f6fafb;
+    padding: 4px;
+    margin: 5px;
+    text-decoration: #333 underline;
+
+}
+
+button {
+    border:1px #333 solid; 
+    border-radius: 0.3rem;
+    color: #333;
+    background: #f6f6fafb;
+    padding: 4px;
+    margin: 5px;
+    text-decoration: #333 underline;
+
+}
